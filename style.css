@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body html{
+    width: 100%;
+    height: 200vh;
+   
+}
+.bg{
+   
+    width: 100%;
+background-color: transparent;
+
+
+
+
+position: fixed;
+
+}
+.navbar{
+    padding-top: 20px;
+}
+.navcolor{
+    background-color: #f4eded;
+    color: rgb(11, 9, 9);
+    height: 70px;
+
+    border-bottom: 1px solid  lightgrey;
+   
+    
+}
+a{
+    color: rgb(7, 7, 7);
+    font-size: 19px;
+    margin: 70px;
+    text-decoration: none;
+
+   
+    transition: 0.5s;
+    letter-spacing: 1.5px;
+    
+}
+.logo{
+    font-size: 25px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    
+   
+} 
+button{
+    width: 70px;
+    height: 25px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(152, 25, 25);
+    color: white;
+    font-weight: bold;
+    transition: 0.5s;
+}
+button:hover{
+    background-color: white;
+    color: rgb(152, 25, 25); 
+}
+a:hover{
+    color:rgb(152, 25, 25);
+ 
+}
+.hero{
+    width: 100%;
+    height: 600px;
+    background-color: aqua;
+}
+.upper{
+    height: 50%;
+    width: 100%;
+ 
+ background-color: rgb(55, 53, 53);}
+ h2{
+    font-weight: bolder;
+    font-size: 40px;
+    text-transform: capitalize;
+    text-align: center;
+    padding-top: 120px;
+    color: white;
+    letter-spacing: 1px;
+ }
+ span{
+    color: rgb(216, 78, 14);
+ }
+.lower{
+    width:100%;
+    height: 50%;
+    background: url(62acf7bc4245600018dd9436.webp);
+    background-size: cover;
+    background-position:center;
+}
+.lowleft{
+    width: 50%;
+    background: url(hot-air-balloon-boat-fort-lauderdale-and-broward-county-florida-usa_980x650.jpg);
+    background-size: cover;
+    background-position:center;
+    height: 100%;
+}
+.content{
+    width: 100%;
+    height: 600px;
+    background: url(MTkwNTc4NDQ3MDgxMjE5OTY0.webp);
+    background-size: cover;
+    background-position:center;
+   
+    
+    color: rgb(152, 25, 25);
+    
+}
+h1{
+    text-align: center;
+    padding-top: 200px;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+#btn{
+width:120px ;
+height: 40px;
+background-color: rgb(152, 25, 25);
+margin:  150px 600px;
+border-radius: 15px;
+}
+
+
+
+
+
